@@ -1,0 +1,9 @@
+c:\users\us\documents\visual studio 2013\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\us\Documents\Visual Studio 2013\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\us\Documents\Visual Studio 2013\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\us\Documents\Visual Studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\us\Documents\Visual Studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\us\Documents\Visual Studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\us\Documents\Visual Studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\Users\us\Documents\Visual Studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\us\Documents\Visual Studio 2013\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
